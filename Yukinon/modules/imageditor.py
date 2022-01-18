@@ -7,7 +7,7 @@ from pyrogram.types import (
 )
 
 # By @TroJanzHEX
-from TGNRobot.Addons.ImageEditor.edit_1 import (  # pylint:disable=import-error
+from Yukinon.Addons.ImageEditor.edit_1 import (  # pylint:disable=import-error
     black_white,
     box_blur,
     bright,
